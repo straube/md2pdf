@@ -1,6 +1,6 @@
 # Markdown to PDF
 
-This is a very simple command-line program that converts a Markdown to PDF.
+This is a very simple command-line program written in PHP that converts a Markdown to PDF.
 
 ## Installing
 
