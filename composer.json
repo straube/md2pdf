@@ -1,0 +1,14 @@
+{
+    "name": "creativeduo/md2pdf",
+    "type": "project",
+    "require": {
+        "erusev/parsedown": "^1.6",
+        "dompdf/dompdf": "^0.7.0"
+    },
+    "authors": [
+        {
+            "name": "Gustavo Straube",
+            "email": "gustavo@creativeduo.com.br"
+        }
+    ]
+}
